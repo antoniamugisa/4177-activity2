@@ -1,0 +1,12 @@
+{
+  "name": "4177-activity1",
+  "version": "1.0.0",
+  "description": "Tutorial Activity for CSCI4177: Adv Topics in Web Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
